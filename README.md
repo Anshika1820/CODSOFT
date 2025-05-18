@@ -28,6 +28,13 @@ Codsoft-Internship
   ![StudentGradeCalculator](https://github.com/user-attachments/assets/902cfedc-eefb-4608-9858-cab919c80578)
   
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Task3: "ATM Inteface"
+*ATM Interface Project (Java Swing + MySQL)
+This is a simple ATM simulation system built using Java Swing for the GUI and MySQL for backend data storage. It allows users to deposit, withdraw, and check balance. The interface includes buttons, labels, and input fields, and it dynamically hides components after actions to mimic real ATM behavior. The balance is stored in a MySQL database using JDBC, ensuring data is saved even after the app closes.
+* Overview of the frame-
+  ![ATM](https://github.com/user-attachments/assets/063eccc7-36e3-4a8b-a572-7a7b82828583)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
 
